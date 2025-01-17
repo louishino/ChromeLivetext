@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/0c08e94e-138b-4e99-94c4-8804e089ee12)
 # ChromeLivetext
 
 > **Language:** [English](#) | [简体中文](#)
